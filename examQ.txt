@@ -1,0 +1,13 @@
+test-user-1
+
+327764942486
+
+vGr812_i
+
+billing Alarm
+Interview Question
+Q - how can you get automated notifications if your account goes over $1000 etc...
+A- Got cloud watch,and create an alam, the cloudwatch will calll the sns topic. 
+create an sns topic and you will receive a notification email and accept it 
+
+Which tier oF S3 you should use in a given scenario?
